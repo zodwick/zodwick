@@ -5,5 +5,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zodwick&theme=github-dark-blue&hide_border=true&background=45%2C091D42%2C150F27)](https://git.io/streak-stats)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
